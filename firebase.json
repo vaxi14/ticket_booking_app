@@ -1,0 +1,35 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ticket-booking-app-ddf0e",
+          "appId": "1:979693334437:android:14739f40fee98c23a4424c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ticket-booking-app-ddf0e",
+          "configurations": {
+            "android": "1:979693334437:android:14739f40fee98c23a4424c",
+            "ios": "1:979693334437:ios:6fd7f2249b642b9fa4424c"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
