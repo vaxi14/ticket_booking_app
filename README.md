@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+https://appetize.io/app/b_dlexoqyko6gkww4y6bvrdso6y4
+[You can test this app using the following link]
 
 This project is a starting point for a Flutter application.
 
